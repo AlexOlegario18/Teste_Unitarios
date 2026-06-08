@@ -1,6 +1,6 @@
 # Projeto de Testes Unitários em Python com IA
 
-**Alexsander Davi Naves Olegário**
+**Alexsander Davi Naves Olegário.**
 **Engenharia de Software**
 
 ## Objetivo da Atividade
